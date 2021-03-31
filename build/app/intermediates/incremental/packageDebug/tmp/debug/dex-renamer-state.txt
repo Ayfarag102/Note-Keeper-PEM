@@ -1,4 +1,0 @@
-#Wed Mar 24 20:16:05 EDT 2021
-base.0=/Volumes/ALYFK/MAC/Documents/World_PDFS/Flutter/learning-flutter/note_keeper_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
