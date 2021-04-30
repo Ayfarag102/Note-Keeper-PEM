@@ -13,6 +13,14 @@ Having learned in college that priority has 4 levels:
 | `3.` | Not Urgent but Important |
 | `4.` | Not Urgent & Not Important |
 
+
+| Level | Urgent? | Important? |
+| --- | --- | --- |
+| `1.` | ✔️ | ✔️ |
+| `2.` | ✔️ |  ❌ |
+| `3.` | ❌ | ✔️ |
+| `4.` | ❌ | ❌ |
+
 And emotions play a great role with it comes to prioritized tasks, that they complete tasks on the basis of how they feel about these tasks, so they take care of it accordingly. 
 
 
