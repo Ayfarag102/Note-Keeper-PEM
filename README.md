@@ -1,7 +1,7 @@
 # Note Keeper PEM
 Note Keeping with a spice of priority and emotional management
 
-In the digital age we currently live in, people have become so occupied that [their] time [is at loss] has become a very lost asset leading to the lack of two factors: 1. priority, and 2. emotion.
+In the digital age we currently live in, people have become so occupied that [their] time [is at loss, and] has become a very lost asset leading to the lack of two factors: 1. priority, and 2. emotion.
 
 It is appropriate that people realize that managing their time is better maintained based on priority and their emotions rather than just based on a time schedule.
 
