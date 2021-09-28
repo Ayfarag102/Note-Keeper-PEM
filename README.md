@@ -1,5 +1,5 @@
 # Note Keeper PEM
-Note Keeping with a spice of priority and emotional management
+Note Keeping with a spice of priority and emotional intelligence [management *per se*]
 
 In the digital age we currently live in, people have become so occupied that [their] time [is at loss, and] has become a very lost asset leading to the lack of two factors: 1. priority, and 2. emotion.
 
